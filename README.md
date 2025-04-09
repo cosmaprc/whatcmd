@@ -1,21 +1,8 @@
 # whatcmd
 
-[![PyPI - Version](https://img.shields.io/pypi/v/whatcmd.svg)](https://pypi.org/project/whatcmd)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/whatcmd.svg)](https://pypi.org/project/whatcmd)
+whatcmd is a CLI app that will disaply list of Linud commands organized by usecase catgory in a textual menu directly in your terminal. Selecing a command will allow you to input arguments or leave defaults and will then run the command while exiting the script.
 
------
-
-## Table of Contents
-
-- [Installation](#installation)
-- [License](#license)
-
-## Installation
-
-```console
-pip install whatcmd
+# Install
 ```
-
-## License
-
-`whatcmd` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
+make install
+```

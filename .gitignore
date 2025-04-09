@@ -1,0 +1,4 @@
+**/*.pyc
+__pycache__/
+/dist/
+/src/whatcmd.egg-info/
