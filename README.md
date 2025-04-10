@@ -6,3 +6,8 @@ whatcmd is a CLI app that will disaply list of Linud commands organized by useca
 ```
 make install
 ```
+
+# Run
+```
+whatcmd
+```
